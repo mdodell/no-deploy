@@ -1,5 +1,5 @@
 {
-  "name": "no-deploy",
+  "name": "print-serverless-function",
   "srcDir": "src",
   "platformVersion": "2023.2"
 }
